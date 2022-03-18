@@ -35,9 +35,9 @@ background:rgb(209, 247, 120);
     justify-content: center;
 }
 .btn{
-    background: blue;
+    background:lightblue;
     width:95px;
-    font-size:20px;
+    font-size:15px;
     border-radius:10px;
     margin: 5px;
 }
